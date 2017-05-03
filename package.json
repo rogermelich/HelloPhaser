@@ -1,0 +1,16 @@
+{
+  "name": "HelloPhaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phaser-ce": "^2.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roger Melich Curto <rogermelich@gmail.com>",
+  "license": "ISC"
+}
